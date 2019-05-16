@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+H:\2019.0311.大数据\2019.05.15\day15\source\JucTest\.metadata\.plugins\org.eclipse.jdt.core
+1644183769.index
